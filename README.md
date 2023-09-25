@@ -35,10 +35,10 @@ Before getting started, make sure you have the following prerequisites installed
      npx hardhat run --network localhost scripts/deploy.js
      ```
    - Back in the first terminal, type
-     ``bash
+
+     ```bash
      npm run dev
-     ```
-     to launch the front-end.
+
      ```
 
 4. Open your web browser and navigate to `http://localhost:3000` to access the application.
